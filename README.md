@@ -1,7 +1,9 @@
 ## **Lista de Frutas**
 
 #### __Frutas Master__ es una _empresa familiar_ de tercera generación que se dedica a la compra, venta y distribución de frutas al por mayor.
-En la actualidad, somos la empresa líder en el servicio de distribución de frutas.
+#### _En la actualidad, somos la empresa líder en el servicio de distribución de frutas._
+
+[Link del Repositorio](https://github.com/Abby25fly/lista-frutas)
 
 ### Lección 13 - Frutas master
 *Lista de frutas*
